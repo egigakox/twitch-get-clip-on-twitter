@@ -1,5 +1,5 @@
 # twitch-get-clip-on-twitter
-This app uses Twitter and Twitch API to publish selected twitch clip as tweet every day at 17:00.
+This app uses Twitter and Twitch APIs to publish selected twitch clip as tweet every day at 17:00.
 # All dependencies you need are:
 - twit
 - node-schedule
